@@ -1,4 +1,4 @@
-Hi, Dev! ⚡
+<h1> Hi, Dev! ⚡</h1>
 
 Let's programm!
 
