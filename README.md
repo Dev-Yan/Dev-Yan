@@ -4,4 +4,6 @@ Let's programm!
 
 My social Networks:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank" />](https://www.linkedin.com/in/yan-lima-955195221/)
+<div target ="_blank">
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yan-lima-955195221/)
+</div>
